@@ -63,9 +63,9 @@ Nesta seção, será exposto o cronograma do projeto com o intuito de detalhar a
 |16/07/2025 (Fase Final)           | Relatório final, estudos de casos completos e conclusões obtidas com a realização do trabalho. |
 
 ## 6. Referências
-[1] ROBINSON, Ian; WEBBER, Jim; EIFREM, Emil. Graph databases: new opportunities for connected data. Sebastopol, CA: O’Reilly Media, 2015.
-[2] NEO4J, INC. Cypher Manual. [S.l.]: Neo4j. Disponível em: https://neo4j.com/docs/cypher-manual/current/. Acesso em: 14 jun. 2025.
-[3] ZAGALSKY, Jason. Graphs in Government: Fulfilling Your Mission with Neo4j Whitepaper. [S.l.]: Neo4j, 2019. Disponível em: https://neo4j.com/use-cases/government/. Acesso em: 16 jun. 2025.
-[4] MATHUR, Nav. Graph Technology for Financial Services: White Paper. [S.l.]: Neo4j, 2020. Disponível em: https://neo4j.com/use-cases/financial-services/. Acesso em: 16 jun. 2025.
-[5] RATHLE, Phillip. Driving Innovation in Retail with Graph Technology. [S.l.]: Neo4j, 2021. Disponível em: https://neo4j.com/use-cases/retail/. Acesso em: 16 jun. 2025.
-[6] HODLER, Amy. Advanced Service Assurance with Neo4j. [S.l.]: Neo4j, 2021. Disponível em: https://neo4j.com/use-cases/telecom/. Acesso em: 16 jun. 2025.
+1. ROBINSON, Ian; WEBBER, Jim; EIFREM, Emil. Graph databases: new opportunities for connected data. Sebastopol, CA: O’Reilly Media, 2015.
+2. NEO4J, INC. Cypher Manual. [S.l.]: Neo4j. Disponível em: https://neo4j.com/docs/cypher-manual/current/. Acesso em: 14 jun. 2025.
+3. ZAGALSKY, Jason. Graphs in Government: Fulfilling Your Mission with Neo4j Whitepaper. [S.l.]: Neo4j, 2019. Disponível em: https://neo4j.com/use-cases/government/. Acesso em: 16 jun. 2025.
+4. MATHUR, Nav. Graph Technology for Financial Services: White Paper. [S.l.]: Neo4j, 2020. Disponível em: https://neo4j.com/use-cases/financial-services/. Acesso em: 16 jun. 2025.
+5. RATHLE, Phillip. Driving Innovation in Retail with Graph Technology. [S.l.]: Neo4j, 2021. Disponível em: https://neo4j.com/use-cases/retail/. Acesso em: 16 jun. 2025.
+6. HODLER, Amy. Advanced Service Assurance with Neo4j. [S.l.]: Neo4j, 2021. Disponível em: https://neo4j.com/use-cases/telecom/. Acesso em: 16 jun. 2025.
