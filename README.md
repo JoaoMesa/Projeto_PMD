@@ -1,5 +1,3 @@
---
-
 ## Projeto de Disciplina - Aplicações e Limitações do Neo4j
 
 ---
