@@ -1,11 +1,31 @@
-# Universidade Federal de São Carlos
+--
 
-## Processamento Massivo de Dados
+## Projeto de Disciplina - Aplicações e Limitações do Neo4j
 
-### Projeto Prático: Fase Final
+---
 
-- João Vitor Naves Mesa
-- Pedro Gonçalves Correia
+#### Universidade Federal de São Carlos
+
+#### Curso: Bacharelado em Ciência da Computação de Sorocaba
+
+### Disciplina: Processamento Massivo de Dados
+
+### Professora: Profa. Dra. Sahudy Montenegro González
+
+---
+
+### Grupo 8
+
+- João Vitor Naves Mesa - 814149
+- Pedro Gonçalves Correia - 813281
+
+---
+
+## Resumo
+
+Este projeto investiga as aplicações práticas e limitações do banco de dados em grafos Neo4j em setores como governo, serviços financeiros, telecomunicações e varejo.  
+Através da análise de white papers oficiais e estudos de caso, avaliam-se funcionalidades, desafios técnicos e impactos operacionais.  
+O relatório apresenta um panorama crítico de desempenho, escalabilidade e complexidade, esclarecendo as vantagens e desafios de utilizar o Neo4j.
 
 ---
 
